@@ -9,6 +9,8 @@ public class Main : MonoBehaviour
     {
         enemy = new Enemy("A");
         Player player = new Player("B");
+
+        Debug.Log("Hola");
     }
 
     void Update()
