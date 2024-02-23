@@ -1977,7 +1977,7 @@ GameObject:
   - component: {fileID: 2125926425}
   - component: {fileID: 2125926424}
   m_Layer: 0
-  m_Name: Cylinder
+  m_Name: chimenea
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
